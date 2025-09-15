@@ -13,6 +13,7 @@
 		</Item>
 		<Item Name="Numeric" Type="Folder">
 			<Item Name="DblControl.ctl" Type="VI" URL="../DblControl.ctl"/>
+			<Item Name="VerticalSliderControl.ctl" Type="VI" URL="../VerticalSliderControl.ctl"/>
 		</Item>
 		<Item Name="Special" Type="Folder">
 			<Item Name="Logging Control.ctl" Type="VI" URL="../Logging Control.ctl"/>
@@ -23,8 +24,15 @@
 		</Item>
 	</Item>
 	<Item Name="Indicators" Type="Folder">
+		<Item Name="Boolean" Type="Folder">
+			<Item Name="BooleanIndicator.ctl" Type="VI" URL="../BooleanIndicator.ctl"/>
+		</Item>
+		<Item Name="Charting" Type="Folder">
+			<Item Name="Simple Graph.ctl" Type="VI" URL="../Simple Graph.ctl"/>
+		</Item>
 		<Item Name="Numeric" Type="Folder">
 			<Item Name="DblNumericStatus.ctl" Type="VI" URL="../DblNumericStatus.ctl"/>
+			<Item Name="NumericIndicator.ctl" Type="VI" URL="../NumericIndicator.ctl"/>
 		</Item>
 		<Item Name="Special" Type="Folder">
 			<Item Name="System Config Status.ctl" Type="VI" URL="../System Config Status.ctl"/>

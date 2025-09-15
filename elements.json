@@ -1,0 +1,99 @@
+{
+    "Elements": [
+        {
+            "Type": "DigitalButtonControl",
+            "Channel": "",
+            "Invert": false,
+            "Staleness": 2,
+
+            "Appearance": {
+                "TextColor": "#000000",
+                "Unclicked": {
+                    "Text": "Turn On",
+                    "Color": "#DDDDDD"
+                },
+                "Clicked": {
+                    "Text": "Turn Off",
+                    "Color": "#CCCCCC"
+                }
+            }
+        },
+
+        {
+            "Type": "DblPopupControl",
+            "Channel": "",
+            "Staleness": 2,
+
+            "Format": "%0.2f",
+            "Color": {
+                "Text": "#DDCC00",
+                "BG": "#000000"
+            }
+        },
+
+        {
+            "Type": "SliderControl",
+            "Channel": "",
+            "Staleness": 2
+        },
+
+        {
+            "Type": "LoggingControl",
+            "Targets": [""]
+        },
+
+        {
+            "Type": "2WayValveHControl",
+            "Output": {"Channel": ""},
+            "Staleness": 2,
+
+            "ClosedFB": {"Channel": ""},
+            "OpenFB": {"Channel": ""},
+            "Energized": {"Channel": ""}
+        },
+
+        {
+            "Type": "2WayValveVControl",
+            "Output": {"Channel": ""},
+            "Staleness": 2,
+
+            "ClosedFB": {"Channel": ""},
+            "OpenFB": {"Channel": ""},
+            "Energized": {"Channel": ""}
+        },
+
+        {
+            "Type": "BooleanIndicator",
+            "Channel": ""
+        },
+
+        {
+            "Type": "NumericIndicator",
+            "Channel": ""
+        },
+
+        {
+            "Type": "DblStatusIndicator",
+            "Channel": "",
+            "Staleness": 2,
+
+            "Format": "%0.2f",
+            "Color": "#DDCC00"
+        },
+
+        {
+            "Type": "SystemConfigStatus",
+            "Staleness": 2,
+
+            "Exclude": [""]
+        },
+
+        {
+            "Type": "LocalGraphBuffer",
+            "Channels": [""],
+            "Buffer_Length": 10000,
+            "Redraw_Period_s": 1,
+            "Duration_s": 120
+        }
+    ]
+}
