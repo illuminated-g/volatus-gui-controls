@@ -26,6 +26,7 @@
 	<Item Name="Indicators" Type="Folder">
 		<Item Name="Boolean" Type="Folder">
 			<Item Name="BooleanIndicator.ctl" Type="VI" URL="../BooleanIndicator.ctl"/>
+			<Item Name="NumericRangeBoolean.ctl" Type="VI" URL="../NumericRangeBoolean.ctl"/>
 		</Item>
 		<Item Name="Charting" Type="Folder">
 			<Item Name="Simple Graph.ctl" Type="VI" URL="../Simple Graph.ctl"/>
