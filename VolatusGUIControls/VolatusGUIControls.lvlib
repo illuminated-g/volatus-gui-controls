@@ -33,6 +33,7 @@
 		</Item>
 		<Item Name="Numeric" Type="Folder">
 			<Item Name="DblNumericStatus.ctl" Type="VI" URL="../DblNumericStatus.ctl"/>
+			<Item Name="GaugeIndicator.ctl" Type="VI" URL="../GaugeIndicator.ctl"/>
 			<Item Name="NumericIndicator.ctl" Type="VI" URL="../NumericIndicator.ctl"/>
 		</Item>
 		<Item Name="Special" Type="Folder">
