@@ -16,6 +16,7 @@
 			<Item Name="VerticalSliderControl.ctl" Type="VI" URL="../VerticalSliderControl.ctl"/>
 		</Item>
 		<Item Name="Special" Type="Folder">
+			<Item Name="Group Logging Control.ctl" Type="VI" URL="../Group Logging Control.ctl"/>
 			<Item Name="Logging Control.ctl" Type="VI" URL="../Logging Control.ctl"/>
 		</Item>
 		<Item Name="Valves" Type="Folder">
