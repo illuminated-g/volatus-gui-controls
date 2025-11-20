@@ -8,6 +8,9 @@
 
 </Property>
 	<Item Name="Controls" Type="Folder">
+		<Item Name="Boolean" Type="Folder">
+			<Item Name="CheckboxBoolean.ctl" Type="VI" URL="../CheckboxBoolean.ctl"/>
+		</Item>
 		<Item Name="Button" Type="Folder">
 			<Item Name="ButtonControl.ctl" Type="VI" URL="../ButtonControl.ctl"/>
 		</Item>
