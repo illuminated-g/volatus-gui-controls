@@ -21,6 +21,7 @@
 		<Item Name="Special" Type="Folder">
 			<Item Name="Group Logging Control.ctl" Type="VI" URL="../Group Logging Control.ctl"/>
 			<Item Name="Logging Control.ctl" Type="VI" URL="../Logging Control.ctl"/>
+			<Item Name="Sequencing Control.ctl" Type="VI" URL="../Sequencing Control.ctl"/>
 		</Item>
 		<Item Name="Valves" Type="Folder">
 			<Item Name="2WayValveH.ctl" Type="VI" URL="../2WayValveH.ctl"/>
