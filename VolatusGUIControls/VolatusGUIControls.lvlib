@@ -9,10 +9,8 @@
 </Property>
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Boolean" Type="Folder">
-			<Item Name="CheckboxBoolean.ctl" Type="VI" URL="../CheckboxBoolean.ctl"/>
-		</Item>
-		<Item Name="Button" Type="Folder">
 			<Item Name="ButtonControl.ctl" Type="VI" URL="../ButtonControl.ctl"/>
+			<Item Name="CheckboxBoolean.ctl" Type="VI" URL="../CheckboxBoolean.ctl"/>
 		</Item>
 		<Item Name="Numeric" Type="Folder">
 			<Item Name="DblControl.ctl" Type="VI" URL="../DblControl.ctl"/>
@@ -27,6 +25,11 @@
 			<Item Name="2WayValveH.ctl" Type="VI" URL="../2WayValveH.ctl"/>
 			<Item Name="2WayValveV.ctl" Type="VI" URL="../2WayValveV.ctl"/>
 		</Item>
+	</Item>
+	<Item Name="Editor" Type="Folder">
+		<Item Name="ButtonControlEditorPanel.lvclass" Type="LVClass" URL="../BooleanControlEditorPanel/ButtonControlEditorPanel.lvclass"/>
+		<Item Name="ElementEditorPanel.lvclass" Type="LVClass" URL="../ElementEditorPanel/ElementEditorPanel.lvclass"/>
+		<Item Name="VolatusControlsList.lvclass" Type="LVClass" URL="../VolatusControlsList/VolatusControlsList.lvclass"/>
 	</Item>
 	<Item Name="Indicators" Type="Folder">
 		<Item Name="Boolean" Type="Folder">
