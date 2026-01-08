@@ -27,6 +27,10 @@
 		</Item>
 	</Item>
 	<Item Name="Editor" Type="Folder">
+		<Item Name="Data Types" Type="Folder">
+			<Item Name="Control Bind Data.ctl" Type="VI" URL="../../VolatusGUIEditor/Control Bind Data.ctl"/>
+			<Item Name="Update Preview Data.ctl" Type="VI" URL="../../VolatusGUIEditor/Update Preview Data.ctl"/>
+		</Item>
 		<Item Name="ButtonControlEditorPanel.lvclass" Type="LVClass" URL="../BooleanControlEditorPanel/ButtonControlEditorPanel.lvclass"/>
 		<Item Name="ElementEditorPanel.lvclass" Type="LVClass" URL="../ElementEditorPanel/ElementEditorPanel.lvclass"/>
 		<Item Name="VolatusControlsList.lvclass" Type="LVClass" URL="../VolatusControlsList/VolatusControlsList.lvclass"/>
@@ -49,6 +53,10 @@
 		</Item>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
+		<Item Name="JSON" Type="Folder">
+			<Item Name="Extract Element JSON.vi" Type="VI" URL="../../Support/Extract Element JSON.vi"/>
+			<Item Name="Update Element JSON.vi" Type="VI" URL="../Update Element JSON.vi"/>
+		</Item>
 		<Item Name="Graphics Folder.vi" Type="VI" URL="../Graphics Folder.vi"/>
 		<Item Name="Load Pictures.vi" Type="VI" URL="../Load Pictures.vi"/>
 	</Item>

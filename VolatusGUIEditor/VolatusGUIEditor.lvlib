@@ -16,10 +16,7 @@
 			<Item Name="Split Description.vi" Type="VI" URL="../Split Description.vi"/>
 		</Item>
 		<Item Name="Data Types" Type="Folder">
-			<Item Name="Events" Type="Folder">
-				<Item Name="Control Bind Data.ctl" Type="VI" URL="../Control Bind Data.ctl"/>
-				<Item Name="Update Preview Data.ctl" Type="VI" URL="../Update Preview Data.ctl"/>
-			</Item>
+			<Item Name="Events" Type="Folder"/>
 			<Item Name="Control Info.ctl" Type="VI" URL="../Control Info.ctl"/>
 			<Item Name="UI Refs.ctl" Type="VI" URL="../UI Refs.ctl"/>
 		</Item>
