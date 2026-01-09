@@ -26,6 +26,7 @@
 		</Item>
 		<Item Name="Control List.lvclass" Type="LVClass" URL="../Control List/Control List.lvclass"/>
 		<Item Name="Editor.lvclass" Type="LVClass" URL="../Editor/Editor.lvclass"/>
+		<Item Name="Editor.rtm" Type="Document" URL="../Editor.rtm"/>
 	</Item>
 	<Item Name="Volatus GUI Editor.vi" Type="VI" URL="../Volatus GUI Editor.vi"/>
 </Library>

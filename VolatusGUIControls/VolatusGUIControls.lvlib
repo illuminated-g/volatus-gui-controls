@@ -32,6 +32,7 @@
 			<Item Name="Update Preview Data.ctl" Type="VI" URL="../../VolatusGUIEditor/Update Preview Data.ctl"/>
 		</Item>
 		<Item Name="ButtonControlEditorPanel.lvclass" Type="LVClass" URL="../BooleanControlEditorPanel/ButtonControlEditorPanel.lvclass"/>
+		<Item Name="DblControlEditorPanel.lvclass" Type="LVClass" URL="../DblControlEditorPanel/DblControlEditorPanel.lvclass"/>
 		<Item Name="ElementEditorPanel.lvclass" Type="LVClass" URL="../ElementEditorPanel/ElementEditorPanel.lvclass"/>
 		<Item Name="VolatusControlsList.lvclass" Type="LVClass" URL="../VolatusControlsList/VolatusControlsList.lvclass"/>
 	</Item>
