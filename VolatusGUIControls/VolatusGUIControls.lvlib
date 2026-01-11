@@ -27,14 +27,16 @@
 		</Item>
 	</Item>
 	<Item Name="Editor" Type="Folder">
-		<Item Name="Data Types" Type="Folder">
-			<Item Name="Control Bind Data.ctl" Type="VI" URL="../../VolatusGUIEditor/Control Bind Data.ctl"/>
-			<Item Name="Update Preview Data.ctl" Type="VI" URL="../../VolatusGUIEditor/Update Preview Data.ctl"/>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Boolean" Type="Folder">
+				<Item Name="ButtonControlEditorPanel.lvclass" Type="LVClass" URL="../BooleanControlEditorPanel/ButtonControlEditorPanel.lvclass"/>
+				<Item Name="CheckboxControlEditorPanel.lvclass" Type="LVClass" URL="../CheckboxControlEditorPanel/CheckboxControlEditorPanel.lvclass"/>
+			</Item>
+			<Item Name="Numeric" Type="Folder">
+				<Item Name="DblControlEditorPanel.lvclass" Type="LVClass" URL="../DblControlEditorPanel/DblControlEditorPanel.lvclass"/>
+			</Item>
 		</Item>
-		<Item Name="ButtonControlEditorPanel.lvclass" Type="LVClass" URL="../BooleanControlEditorPanel/ButtonControlEditorPanel.lvclass"/>
-		<Item Name="DblControlEditorPanel.lvclass" Type="LVClass" URL="../DblControlEditorPanel/DblControlEditorPanel.lvclass"/>
-		<Item Name="ElementEditorPanel.lvclass" Type="LVClass" URL="../ElementEditorPanel/ElementEditorPanel.lvclass"/>
-		<Item Name="VolatusControlsList.lvclass" Type="LVClass" URL="../VolatusControlsList/VolatusControlsList.lvclass"/>
+		<Item Name="Indicators" Type="Folder"/>
 	</Item>
 	<Item Name="Indicators" Type="Folder">
 		<Item Name="Boolean" Type="Folder">
