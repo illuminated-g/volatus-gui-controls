@@ -34,6 +34,7 @@
 			</Item>
 			<Item Name="Numeric" Type="Folder">
 				<Item Name="DblControlEditorPanel.lvclass" Type="LVClass" URL="../DblControlEditorPanel/DblControlEditorPanel.lvclass"/>
+				<Item Name="VerticalSliderControlEditorPanel.lvclass" Type="LVClass" URL="../VerticalSliderControlEditorPanel/VerticalSliderControlEditorPanel.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="Indicators" Type="Folder"/>
