@@ -11,6 +11,7 @@
 		<Item Name="Boolean" Type="Folder">
 			<Item Name="ButtonControl.ctl" Type="VI" URL="../ButtonControl.ctl"/>
 			<Item Name="CheckboxBoolean.ctl" Type="VI" URL="../CheckboxBoolean.ctl"/>
+			<Item Name="ImageButton.ctl" Type="VI" URL="../ImageButton.ctl"/>
 		</Item>
 		<Item Name="Numeric" Type="Folder">
 			<Item Name="DblControl.ctl" Type="VI" URL="../DblControl.ctl"/>
@@ -31,6 +32,7 @@
 			<Item Name="Boolean" Type="Folder">
 				<Item Name="ButtonControlEditorPanel.lvclass" Type="LVClass" URL="../BooleanControlEditorPanel/ButtonControlEditorPanel.lvclass"/>
 				<Item Name="CheckboxControlEditorPanel.lvclass" Type="LVClass" URL="../CheckboxControlEditorPanel/CheckboxControlEditorPanel.lvclass"/>
+				<Item Name="ImageButtonEditorPanel.lvclass" Type="LVClass" URL="../ImageButtonEditorPanel/ImageButtonEditorPanel.lvclass"/>
 			</Item>
 			<Item Name="Numeric" Type="Folder">
 				<Item Name="DblControlEditorPanel.lvclass" Type="LVClass" URL="../DblControlEditorPanel/DblControlEditorPanel.lvclass"/>
@@ -40,7 +42,11 @@
 				<Item Name="2WayValveEditorPanel.lvclass" Type="LVClass" URL="../2WayValveEditorPanel/2WayValveEditorPanel.lvclass"/>
 			</Item>
 		</Item>
-		<Item Name="Indicators" Type="Folder"/>
+		<Item Name="Indicators" Type="Folder">
+			<Item Name="Boolean" Type="Folder">
+				<Item Name="BooleanIndicatorEditorPanel.lvclass" Type="LVClass" URL="../BooleanIndicatorEditorPanel/BooleanIndicatorEditorPanel.lvclass"/>
+			</Item>
+		</Item>
 	</Item>
 	<Item Name="Indicators" Type="Folder">
 		<Item Name="Boolean" Type="Folder">
