@@ -36,6 +36,9 @@
 				<Item Name="DblControlEditorPanel.lvclass" Type="LVClass" URL="../DblControlEditorPanel/DblControlEditorPanel.lvclass"/>
 				<Item Name="VerticalSliderControlEditorPanel.lvclass" Type="LVClass" URL="../VerticalSliderControlEditorPanel/VerticalSliderControlEditorPanel.lvclass"/>
 			</Item>
+			<Item Name="Valves" Type="Folder">
+				<Item Name="2WayValveEditorPanel.lvclass" Type="LVClass" URL="../2WayValveEditorPanel/2WayValveEditorPanel.lvclass"/>
+			</Item>
 		</Item>
 		<Item Name="Indicators" Type="Folder"/>
 	</Item>
