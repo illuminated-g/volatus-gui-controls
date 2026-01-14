@@ -25,6 +25,9 @@
 		<Item Name="Escape Percents.vi" Type="VI" URL="../Escape Percents.vi"/>
 		<Item Name="Parse Decimals.vi" Type="VI" URL="../Parse Decimals.vi"/>
 	</Item>
+	<Item Name="Images" Type="Folder">
+		<Item Name="Base64 PNG to Picture.vi" Type="VI" URL="../Base64 PNG to Picture.vi"/>
+	</Item>
 	<Item Name="Read" Type="Folder">
 		<Item Name="Read Boolean Color Props.vi" Type="VI" URL="../Read Boolean Color Props.vi"/>
 		<Item Name="Read Boolean Text Props.vi" Type="VI" URL="../Read Boolean Text Props.vi"/>
