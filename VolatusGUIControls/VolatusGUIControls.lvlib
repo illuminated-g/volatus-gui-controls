@@ -64,6 +64,7 @@
 		<Item Name="Indicators" Type="Folder">
 			<Item Name="Boolean" Type="Folder">
 				<Item Name="BooleanIndicatorEditorPanel.lvclass" Type="LVClass" URL="../BooleanIndicatorEditorPanel/BooleanIndicatorEditorPanel.lvclass"/>
+				<Item Name="NumRangeBoolEditorPanel.lvclass" Type="LVClass" URL="../NumRangeBoolEditorPanel/NumRangeBoolEditorPanel.lvclass"/>
 			</Item>
 		</Item>
 	</Item>
