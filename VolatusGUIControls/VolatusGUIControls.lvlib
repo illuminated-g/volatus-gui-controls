@@ -66,6 +66,9 @@
 				<Item Name="BooleanIndicatorEditorPanel.lvclass" Type="LVClass" URL="../BooleanIndicatorEditorPanel/BooleanIndicatorEditorPanel.lvclass"/>
 				<Item Name="NumRangeBoolEditorPanel.lvclass" Type="LVClass" URL="../NumRangeBoolEditorPanel/NumRangeBoolEditorPanel.lvclass"/>
 			</Item>
+			<Item Name="Numeric" Type="Folder">
+				<Item Name="DblNumericStatusEditorPanel.lvclass" Type="LVClass" URL="../DblNumericStatusEditorPanel/DblNumericStatusEditorPanel.lvclass"/>
+			</Item>
 		</Item>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
