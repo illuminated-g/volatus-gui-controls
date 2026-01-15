@@ -11,8 +11,12 @@
 		<Item Name="Props" Type="Folder">
 			<Item Name="Boolean Color Props.ctl" Type="VI" URL="../Boolean Color Props.ctl"/>
 			<Item Name="Boolean Text Props.ctl" Type="VI" URL="../Boolean Text Props.ctl"/>
+			<Item Name="Chart Scale Count.ctl" Type="VI" URL="../Chart Scale Count.ctl"/>
+			<Item Name="Chart Scale Props.ctl" Type="VI" URL="../Chart Scale Props.ctl"/>
+			<Item Name="Chart Scales.ctl" Type="VI" URL="../Chart Scales.ctl"/>
 			<Item Name="Label Props.ctl" Type="VI" URL="../Label Props.ctl"/>
 			<Item Name="Numeric Text Props.ctl" Type="VI" URL="../Numeric Text Props.ctl"/>
+			<Item Name="Plot Legend Props.ctl" Type="VI" URL="../Plot Legend Props.ctl"/>
 			<Item Name="Position Props.ctl" Type="VI" URL="../Position Props.ctl"/>
 			<Item Name="Slider Props.ctl" Type="VI" URL="../Slider Props.ctl"/>
 		</Item>
@@ -29,15 +33,19 @@
 		<Item Name="Base64 to Picture.vi" Type="VI" URL="../Base64 to Picture.vi"/>
 	</Item>
 	<Item Name="Read" Type="Folder">
+		<Item Name="Chart Scale Count.vi" Type="VI" URL="../Chart Scale Count.vi"/>
 		<Item Name="Read Boolean Color Props.vi" Type="VI" URL="../Read Boolean Color Props.vi"/>
 		<Item Name="Read Boolean Text Props.vi" Type="VI" URL="../Read Boolean Text Props.vi"/>
+		<Item Name="Read Chart Scales.vi" Type="VI" URL="../Read Chart Scales.vi"/>
 		<Item Name="Read Cluster Height.vi" Type="VI" URL="../Read Cluster Height.vi"/>
 		<Item Name="Read Cluster Width.vi" Type="VI" URL="../Read Cluster Width.vi"/>
 		<Item Name="Read Control Height.vi" Type="VI" URL="../Read Control Height.vi"/>
 		<Item Name="Read Control Width.vi" Type="VI" URL="../Read Control Width.vi"/>
+		<Item Name="Read Graph Legend Props.vi" Type="VI" URL="../Read Graph Legend Props.vi"/>
 		<Item Name="Read Label Props.vi" Type="VI" URL="../Read Label Props.vi"/>
 		<Item Name="Read Numeric Text Props.vi" Type="VI" URL="../Read Numeric Text Props.vi"/>
 		<Item Name="Read Position Props.vi" Type="VI" URL="../Read Position Props.vi"/>
+		<Item Name="Read Scale Props.vi" Type="VI" URL="../Read Scale Props.vi"/>
 		<Item Name="Read Scale Range.vi" Type="VI" URL="../Read Scale Range.vi"/>
 		<Item Name="Read Slider Props.vi" Type="VI" URL="../Read Slider Props.vi"/>
 	</Item>
@@ -48,9 +56,11 @@
 		<Item Name="Write Cluster Width.vi" Type="VI" URL="../Write Cluster Width.vi"/>
 		<Item Name="Write Control Height.vi" Type="VI" URL="../Write Control Height.vi"/>
 		<Item Name="Write Control Width.vi" Type="VI" URL="../Write Control Width.vi"/>
+		<Item Name="Write Graph Legend Props.vi" Type="VI" URL="../Write Graph Legend Props.vi"/>
 		<Item Name="Write JSON Prop.vi" Type="VI" URL="../Write JSON Prop.vi"/>
 		<Item Name="Write Label Props.vi" Type="VI" URL="../Write Label Props.vi"/>
 		<Item Name="Write Numeric Text Props.vi" Type="VI" URL="../Write Numeric Text Props.vi"/>
+		<Item Name="Write Plot Names.vi" Type="VI" URL="../Write Plot Names.vi"/>
 		<Item Name="Write Position Props.vi" Type="VI" URL="../Write Position Props.vi"/>
 		<Item Name="Write Scale Range.vi" Type="VI" URL="../Write Scale Range.vi"/>
 		<Item Name="Write Slider Props.vi" Type="VI" URL="../Write Slider Props.vi"/>

@@ -69,6 +69,9 @@
 			<Item Name="Numeric" Type="Folder">
 				<Item Name="DblNumericStatusEditorPanel.lvclass" Type="LVClass" URL="../DblNumericStatusEditorPanel/DblNumericStatusEditorPanel.lvclass"/>
 			</Item>
+			<Item Name="Charting" Type="Folder">
+				<Item Name="SimpleGraphEditorPanel.lvclass" Type="LVClass" URL="../SimpleGraphEditorPanel/SimpleGraphEditorPanel.lvclass"/>
+			</Item>
 		</Item>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
