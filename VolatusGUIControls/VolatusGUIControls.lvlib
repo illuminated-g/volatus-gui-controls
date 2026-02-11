@@ -44,6 +44,7 @@
 		</Item>
 		<Item Name="Special" Type="Folder">
 			<Item Name="System Config Status.ctl" Type="VI" URL="../System Config Status.ctl"/>
+			<Item Name="BluelinesRedlines.ctl" Type="VI" URL="../BluelinesRedlines.ctl"/>
 		</Item>
 	</Item>
 	<Item Name="Editor" Type="Folder">
