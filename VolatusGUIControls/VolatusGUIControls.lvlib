@@ -36,6 +36,7 @@
 		</Item>
 		<Item Name="Charting" Type="Folder">
 			<Item Name="Simple Graph.ctl" Type="VI" URL="../Simple Graph.ctl"/>
+			<Item Name="HistorianChart.ctl" Type="VI" URL="../HistorianChart.ctl"/>
 		</Item>
 		<Item Name="Numeric" Type="Folder">
 			<Item Name="DblNumericStatus.ctl" Type="VI" URL="../DblNumericStatus.ctl"/>
