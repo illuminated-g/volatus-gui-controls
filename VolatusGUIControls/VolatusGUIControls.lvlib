@@ -18,14 +18,16 @@
 			<Item Name="DblControl.ctl" Type="VI" URL="../DblControl.ctl"/>
 			<Item Name="VerticalSliderControl.ctl" Type="VI" URL="../VerticalSliderControl.ctl"/>
 		</Item>
-		<Item Name="Special" Type="Folder">
+		<Item Name="Logging" Type="Folder">
 			<Item Name="Group Logging Control.ctl" Type="VI" URL="../Group Logging Control.ctl"/>
 			<Item Name="Logging Control.ctl" Type="VI" URL="../Logging Control.ctl"/>
-			<Item Name="Sequencing Control.ctl" Type="VI" URL="../Sequencing Control.ctl"/>
 		</Item>
 		<Item Name="Valves" Type="Folder">
 			<Item Name="2WayValveH.ctl" Type="VI" URL="../2WayValveH.ctl"/>
 			<Item Name="2WayValveV.ctl" Type="VI" URL="../2WayValveV.ctl"/>
+		</Item>
+		<Item Name="Sequencing" Type="Folder">
+			<Item Name="Sequencing Control.ctl" Type="VI" URL="../Sequencing Control.ctl"/>
 		</Item>
 	</Item>
 	<Item Name="Indicators" Type="Folder">
