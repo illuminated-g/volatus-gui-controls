@@ -29,6 +29,9 @@
 		<Item Name="Sequencing" Type="Folder">
 			<Item Name="Sequencing Control.ctl" Type="VI" URL="../Sequencing Control.ctl"/>
 		</Item>
+		<Item Name="GUI" Type="Folder">
+			<Item Name="GuiLinkButton.ctl" Type="VI" URL="../GuiLinkButton.ctl"/>
+		</Item>
 	</Item>
 	<Item Name="Indicators" Type="Folder">
 		<Item Name="Boolean" Type="Folder">
